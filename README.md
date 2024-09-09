@@ -14,7 +14,7 @@ menggunakan library hipo bukan menggunakan express.
 Aplikasi dapat di testing dengan menggunakan postman. testing dilakukan untuk menguji apakah RestAPI yang kita buat sudah baik dan benar.
 dengan melakukan fitur. request yang digunakan adalah GET, POST, PUT, DELETE.
 
-![Tampilan Postman](./screenshot/2.png)
+![Tampilan Postman](./postman/1.png)
 
 ## Instalasi
 
