@@ -1,4 +1,4 @@
-# BestVisite
+# Notes-App-Basic
 
 Merupakan Aplikasi Notes App Back-end sederhana ini digunakan untuk melakukan pembelajaran dasar tentang backend dengan
 menggunakan library hipo bukan menggunakan express.
